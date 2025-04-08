@@ -7,8 +7,8 @@ Custom TensorFlow op for 2D Deformable Convolution (`deform_conv2d`) supporting 
 
 ## References
 
-- Deformable ConvNets v1: [arXiv:1703.06211](https://arxiv.org/abs/1703.06211)
-- Deformable ConvNets v2: [arXiv:1811.11168](https://arxiv.org/abs/1811.11168)
+- [Deformable Convolutional Networks (arXiv:1703.06211)](https://arxiv.org/abs/1703.06211)
+- [Deformable ConvNets v2: More Deformable, Better Results (arXiv:1811.11168)](https://arxiv.org/abs/1811.11168)
 
 ## Files
 
